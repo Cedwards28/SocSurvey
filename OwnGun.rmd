@@ -19,6 +19,19 @@ source("Import_GSS_2014_haven.R")
 
 ####This study deals with questions about possible relationships between gun ownership and race, sex, political views, opinions on capitol punishment and belief in god. The data is from the 2014 general social survey.
 
+In this report of the General Social Survey (GSS) will be the data set used to answer the research question below. The GSS is a nationwide poll that has been conducted since 1972 (semiannually since 1994). Majority of these surveys were conducted during a face-to-face interview. Every subject within this study was asked different  sets of questions, and varied year to year. The data frame gss2014 contains a section of variables  corresponding with the questions asked of subjects in the year 2014. There is a total of 1000 variables with in the GSS, however will focus on a sample of them:
+
+•	Race: race of respondent
+•	Educ: highest year of school completed
+•	God: R’s confidence in the existence of God
+•	Bible: feelings about the bible
+•	Sex (gender): respondents sex
+•	Polviews: think of self as liberal or conservative 
+•	Partyid: political party affiliation 
+•	Cappun: Favor or opposed death penalty for murder
+•	Degree: R’s highest degree.
+
+``Research Question:`` Is there a relationship between a person’s race, sex, belief in god, opinion on capital punishment, or political views, and gun ownership?      
 
 
 # Methods
