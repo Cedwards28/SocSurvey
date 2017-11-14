@@ -34,6 +34,7 @@ In this report of the General Social Survey (GSS) will be the data set used to a
 ``Research Question:`` Is there a relationship between a person’s race, sex, belief in god, opinion on capital punishment, or political views, and gun ownership?      
 
 
+
 # Methods
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
