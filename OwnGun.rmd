@@ -39,6 +39,10 @@ In this report of the General Social Survey (GSS) will be the data set used to a
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+In the above research question about the relationship betwixt the respondents’ race and gun ownership were both structured as  being factor variables. The thought wondering in mind is if a person’s race helps predict whether they own a gun, or have one in their homes.  Doing this will make ``race``  the explanatory variable and ``owngun`` the response variable.
+
+After the ``str()`` was used to identify the variables within the ``n2014`` the next method that will be used to numerically describe this relationship is, a two-way table. Followed by a use of bar-charts to graphically display the answer to the possible association to gun ownership. 
+
 #Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
